@@ -1,259 +1,88 @@
-# Victor Ferreira Guimarães
+# Hi 👋, I'm Victor Ferreira Guimarães
 
-### Software Developer | C# & .NET | Backend | Software Engineering
+🚀 **Software Developer | C# & .NET Specialist**  
+🇧🇷 Brazil
 
-<p align="center">
-  <a href="https://github.com/DevHavoc">GitHub</a> •
-  <a href="https://www.linkedin.com/in/victor-ferreira-guimar%C3%A3es-1066b5300/">LinkedIn</a> •
-  <a href="https://github.com/DevHavoc/Practical-Portifolio-documentation">Engineering Portfolio</a>
+I build **scalable REST APIs**, **reliable backend systems**, and **data-driven applications**.  
+I’m deeply focused on **Clean Architecture, C#/.NET ecosystem, databases, and engineering problem-solving**.
+
+I also document real-world technical challenges and architectural decisions in my **[Practical Engineering Portfolio](https://github.com/DevHavoc/Practical-Portifolio-documentation)**.
+
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/DevHavoc">
+    <img src="https://img.shields.io/badge/GitHub-DEVHAVOC-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/victor-ferreira-guimar%C3%A3es-1066b5300/">
+    <img src="https://img.shields.io/badge/LinkedIn-VICTOR_FERREIRA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DevHavoc/Practical-Portifolio-documentation">
+    <img src="https://img.shields.io/badge/Portfolio-ENGINEERING_DOCS-512BD4?style=for-the-badge&logo=readme&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 👋 About Me
+## 🧠 What I do
 
-I'm a Software Engineering undergraduate and .NET developer focused on building reliable backend systems and understanding how software works across the entire stack.
-
-My main experience is with **C#, .NET, ASP.NET Core, REST APIs, Entity Framework Core, PostgreSQL and Clean Architecture concepts**.
-
-What I enjoy most is not simply writing code, but understanding problems deeply: tracing requests across layers, investigating unexpected behavior, identifying root causes, and designing solutions that remain maintainable as systems evolve.
-
-I also use AI-assisted development tools as part of my learning and engineering workflow, while keeping the reasoning, validation and technical decisions under my own responsibility.
-
-> **My engineering mindset:** understand the system, find the real cause, then fix the right layer.
-
----
-
-## 🧠 What I Work With
-
-### Backend
-
-- C#
-- .NET
-- ASP.NET Core
-- REST APIs
-- Entity Framework Core
-- DTOs
-- Dependency Injection
-- Repository Pattern
-- Clean Architecture concepts
-
-### Data
-
-- PostgreSQL
-- MySQL
-- SQL
-- Entity Framework Core
-- Data processing and integration
-
-### Frontend & Integration
-
-- SAPUI5
-- REST API integration
-- Request/response flows
-- Authentication-aware frontend requests
-
-### Engineering Tools
-
-- Git & GitHub
-- Visual Studio
-- VS Code
-- Azure ecosystem
-- Swagger
-- FluentMigrator
-- Scrum
-
-### AI & Data
-
-- Python
-- PySpark
-- PyTorch
-- Django
-- AI-assisted development workflows
-- Excel and data analysis
+- 🏗️ RESTful APIs & Layered Architecture (Clean Architecture)
+- ⚡ C#, ASP.NET Core & Entity Framework Core
+- 🧩 Repository Pattern, Dependency Injection & DTOs
+- 🔐 Authorization, Request Validation & Security
+- 🗄️ Relational Database Management (PostgreSQL, MySQL, SQL)
+- 🔍 End-to-end Debugging & Root Cause Analysis
+- 🤖 Data processing, Python scripts & AI-assisted development
+- 🎓 Software Engineering Student @ UniALFA | C2 English Proficient
 
 ---
 
-## 🔎 How I Approach Engineering Problems
+## 🛠️ Tech Stack
 
-I like to investigate software problems as a chain rather than treating the first visible symptom as the root cause.
+### Backend & Core
 
-For backend and full-stack issues, my usual mental model is:
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet)
+![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-```text
-UI
- ↓
-Request construction
- ↓
-HTTP
- ↓
-Controller
- ↓
-Use Case
- ↓
-Repository
- ↓
-ORM
- ↓
-Database
-```
+### Frontend & Data
 
-When something behaves unexpectedly, I try to identify the first point where **actual behavior diverges from expected behavior**.
+![SAPUI5](https://img.shields.io/badge/SAPUI5-0FA153?style=for-the-badge&logo=sap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 
-This approach has led me to work on problems involving:
+### Tools & Ecosystem
 
-- API payloads;
-- persistence and ORM behavior;
-- EF Core tracking;
-- database migrations;
-- authorization;
-- dependency injection;
-- frontend/backend integration;
-- binary HTTP responses;
-- bulk data processing;
-- deployment and dependency issues.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure)
 
 ---
 
-## 🛠️ Practical Engineering Portfolio
+## 📊 GitHub Stats
 
-I document selected engineering experiences in a separate repository:
-
-**[Practical Portfolio Documentation](https://github.com/DevHavoc/Practical-Portifolio-documentation)**
-
-The repository focuses on the reasoning behind implementations rather than exposing proprietary source code.
-
-Topics include:
-
-- REST API architecture;
-- frontend request flows;
-- data imports;
-- EF Core behavior;
-- persistence troubleshooting;
-- authorization and IDOR analysis;
-- dependency injection;
-- deployment troubleshooting;
-- access management;
-- PDF reporting;
-- batch data access;
-- architectural decisions and lessons learned.
-
-The documentation intentionally uses generalized examples so that the engineering reasoning can be shared without exposing confidential implementation details.
-
----
-
-## 🚀 Areas of Experience
-
-### API Development
-
-Building and maintaining REST APIs with ASP.NET Core, including controllers, DTOs, application use cases, repositories, authorization and persistence.
-
-### Database Integration
-
-Working with PostgreSQL and Entity Framework Core for relational data access, relationships, migrations, querying and persistence.
-
-### Layered Architecture
-
-Applying separation between presentation, application and infrastructure responsibilities, with attention to maintainability and testability.
-
-### Debugging
-
-Tracing problems across multiple layers instead of treating isolated symptoms.
-
-A typical investigation might look like:
-
-```text
-Unexpected behavior
-       ↓
-Frontend payload
-       ↓
-HTTP request
-       ↓
-Controller
-       ↓
-Application logic
-       ↓
-Repository
-       ↓
-EF Core
-       ↓
-Database
-```
-
-### Data Integration
-
-Working with external structured data, validation, normalization, mapping and persistence.
-
-### Production-Oriented Troubleshooting
-
-Investigating issues that only appear outside the local development environment, including dependency sources, deployment configuration and environment differences.
-
----
-
-## 📚 Education
-
-**Software Engineering — UniALFA**
-
-Currently pursuing a degree in Software Engineering, with studies involving programming, algorithms, software engineering, databases and application development.
-
----
-
-## 🌎 Languages
-
-| Language | Level |
-|---|---|
-| Portuguese | Native |
-| English | C2 Proficient |
-
-I use English regularly for technical documentation, software development resources and global technology communities.
-
----
-
-## 🎯 Current Focus
-
-I'm currently focused on becoming a stronger software engineer through practical experience and deeper understanding of:
-
-- backend architecture;
-- .NET ecosystem;
-- API design;
-- databases;
-- software debugging;
-- system integration;
-- cloud and deployment;
-- AI-assisted engineering.
-
-My long-term goal is to grow beyond implementation alone and become increasingly capable of understanding systems, making technical decisions and helping teams solve complex problems.
-
----
-
-## 📈 Continuous Learning
-
-I believe professional growth comes from combining:
-
-```text
-Study
-  +
-Practical Experience
-  +
-Debugging
-  +
-Documentation
-  +
-Reflection
-```
-
-Instead of only collecting technologies, I try to document **why** a solution works, **what failed**, and **what I would do differently next time**.
-
----
-
-## 📫 Connect With Me
-
-- 💻 **GitHub:** [@DevHavoc](https://github.com/DevHavoc)
-- 💼 **LinkedIn:** [Victor Ferreira Guimarães](https://www.linkedin.com/in/victor-ferreira-guimar%C3%A3es-1066b5300/)
-- 📚 **Engineering Portfolio:** [Practical Portfolio Documentation](https://github.com/DevHavoc/Practical-Portifolio-documentation)
-
----
-
-<p align="center">
-  <i>Building software, investigating problems, and learning from every system I work with.</i>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevHavoc&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHavoc&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Understand the system, trace the request to the root cause, and fix the right layer."_
+
+---
+
+⭐ Check out my **[Practical Portfolio Documentation](https://github.com/DevHavoc/Practical-Portifolio-documentation)**  
+🤝 Open to technical discussions, collaborations, and back-end opportunities!
