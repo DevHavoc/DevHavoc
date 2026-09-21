@@ -79,15 +79,6 @@ I also document real-world technical challenges and architectural decisions in m
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevHavoc&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHavoc&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Philosophy
 
 > _"Understand the system, trace the request to the root cause, and fix the right layer."_
