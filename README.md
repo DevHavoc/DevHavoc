@@ -97,6 +97,6 @@ Domain
    ↓
 Repository
    ↓
-ORM
+  ORM
    ↓
 Database
