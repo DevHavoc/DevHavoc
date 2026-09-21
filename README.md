@@ -1,4 +1,4 @@
-# Hello World! 👋, I'm Victor Ferreira Guimarães
+# Hello World! 👋, I'm Victor Guimarães | Software Engineer & .NET Specialist
 
 🚀 **Software Developer | C# & .NET Specialist | Software Engineering Student**  
 🇧🇷 **Brazil**
