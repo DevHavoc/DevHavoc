@@ -1,4 +1,4 @@
-# Hi 👋, I'm Victor Ferreira Guimarães
+# Hello World! 👋, I'm Victor Ferreira Guimarães
 
 🚀 **Software Developer | C# & .NET Specialist | Software Engineering Student**  
 🇧🇷 **Brazil**
@@ -6,8 +6,8 @@
 I build **scalable REST APIs**, **reliable backend systems**, and **data-driven applications**.  
 I’m focused on the **C#/.NET ecosystem, Clean Architecture, cloud technologies, databases, and engineering problem-solving**.
 
-I enjoy understanding systems beyond individual pieces of code — from request flow and business logic to persistence, infrastructure, and deployment[cite: 3].  
-I also document real-world technical challenges, implementation decisions, and engineering lessons in my **[Practical Engineering Portfolio](https://github.com/DevHavoc/Practical-Portifolio-documentation)**[cite: 2, 3].
+I enjoy understanding systems beyond individual pieces of code — from request flow and business logic to persistence, infrastructure, and deployment.  
+I also document real-world technical challenges, implementation decisions, and engineering lessons in my **[Practical Engineering Portfolio](https://github.com/DevHavoc/Practical-Portifolio-documentation)**.
 
 ---
 
@@ -29,16 +29,16 @@ I also document real-world technical challenges, implementation decisions, and e
 
 ## 🧠 What I do
 
-- 🏗️ **Design and develop RESTful APIs** using Clean Architecture[cite: 3]
-- ⚡ **Build backend systems** with C#, .NET, ASP.NET Core, and Entity Framework Core[cite: 3]
-- 🧩 **Apply Repository Pattern**, Dependency Injection, DTOs, migrations, and API best practices[cite: 3]
-- 🗄️ **Work with relational databases:** PostgreSQL, MySQL, SQL Server, and relational data modeling[cite: 3]
-- ☁️ **Explore Microsoft Azure** and cloud-oriented solutions[cite: 3]
-- 🔍 **Investigate complex issues** through end-to-end debugging and root cause analysis[cite: 3]
-- 🤖 **Use AI-assisted development**, automation, and LLM-based tools to improve engineering workflows[cite: 3]
-- 📊 **Explore data processing** and engineering with Python, PySpark, PyTorch, and related tools[cite: 3]
-- 🎓 **Study Software Engineering** at UniALFA[cite: 3]
-- 🌎 **English — C2 Proficient** (EF SET Certificate)[cite: 3]
+- 🏗️ **Design and develop RESTful APIs** using Clean Architecture
+- ⚡ **Build backend systems** with C#, .NET, ASP.NET Core, and Entity Framework Core
+- 🧩 **Apply Repository Pattern**, Dependency Injection, DTOs, migrations, and API best practices
+- 🗄️ **Work with relational databases:** PostgreSQL, MySQL, SQL Server, and relational data modeling
+- ☁️ **Explore Microsoft Azure** and cloud-oriented solutions
+- 🔍 **Investigate complex issues** through end-to-end debugging and root cause analysis
+- 🤖 **Use AI-assisted development**, automation, and LLM-based tools to improve engineering workflows
+- 📊 **Explore data processing** and engineering with Python, PySpark, PyTorch, and related tools
+- 🎓 **Study Software Engineering** at UniALFA
+- 🌎 **English — C2 Proficient** (EF SET Certificate)
 
 ---
 
