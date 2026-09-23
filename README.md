@@ -31,11 +31,11 @@ I also document real-world technical challenges, implementation decisions, and e
 
 ## 📂 Engineering Architecture Domains
 
-* 🧠 [backend]([https://github.com](https://github.com/DevHavoc/Practical-Portifolio-documentation/tree/Portfolio/docs/01-backend))
-* 🗄️ [data]([https://github.com](https://github.com/DevHavoc/Practical-Portifolio-documentation/tree/Portfolio/docs/02-data))
-* 🛡️ [security]([https://github.com](https://github.com/DevHavoc/Practical-Portifolio-documentation/tree/Portfolio/docs/03-security))
-* 🌐 [frontend]([https://github.com](https://github.com/DevHavoc/Practical-Portifolio-documentation/tree/Portfolio/docs/04-frontend))*
-* ☁️ [cloud]([https://github.com](https://github.com/DevHavoc/Practical-Portifolio-documentation/tree/Portfolio/docs/05-cloud))
+* 🧠 [backend](https://github.com/DevHavoc/Practical-Portifolio-documentation/tree/Portfolio/docs/01-backend)
+* 🗄️ [data](https://github.com/DevHavoc/Practical-Portifolio-documentation/tree/Portfolio/docs/02-data)
+* 🛡️ [security](https://github.com/DevHavoc/Practical-Portifolio-documentation/tree/Portfolio/docs/03-security)
+* 🌐 [frontend](https://github.com/DevHavoc/Practical-Portifolio-documentation/tree/Portfolio/docs/04-frontend)
+* ☁️ [cloud](https://github.com/DevHavoc/Practical-Portifolio-documentation/tree/Portfolio/docs/05-cloud)
 
 ---
 
