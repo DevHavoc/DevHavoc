@@ -29,6 +29,16 @@ I also document real-world technical challenges, implementation decisions, and e
 
 ---
 
+## 📂 Engineering Architecture Domains
+
+*   🧠 [backend](./cases/backend/)
+*   🗄️ [data](./cases/data/)
+*   🛡️ [security](./cases/security/)
+*   🌐 [frontend](./cases/frontend/)
+*   ☁️ [cloud](./cases/cloud/)
+
+---
+
 ## 🧠 What I do
 
 - 🏗️ **Design and develop RESTful APIs** using Clean Architecture
