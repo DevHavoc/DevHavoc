@@ -1,7 +1,7 @@
 # Hello World! 👋, I'm Victor Guimarães
 
-'🚀 **Software Developer | C# & .NET Specialist | Software Engineering Student**  
-🇧🇷 **Brazil**
+`🚀 Software Developer | C# & .NET Specialist | Software Engineering Student`
+📍 **Goiânia, Brazil** 🇧🇷
 
 I build **scalable REST APIs**, **reliable backend systems**, and **data-driven applications**.  
 I’m focused on the **C#/.NET ecosystem, Clean Architecture, cloud technologies, databases, and engineering problem-solving**.
