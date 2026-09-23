@@ -58,7 +58,7 @@ I also document real-world technical challenges, implementation decisions, and e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="pyspark" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
 </p>
 
 ### 🤖 AI, ML & Programming
@@ -66,9 +66,9 @@ I also document real-world technical challenges, implementation decisions, and e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" height="40"/>
+  <img src="https://api.iconify.design/simple-icons:openai.svg?color=%2310A37F" alt="chatgpt" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" height="40"/>
+  <img src="https://api.iconify.design/octicon:copilot-24.svg?color=%236f42c1" alt="github-copilot" width="40" height="40"/>
 </p>
 
 ### 🌐 Frontend & Enterprise UI
@@ -81,7 +81,7 @@ I also document real-world technical challenges, implementation decisions, and e
 <p valign="middle">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/github.svg" alt="github" width="40" height="40" style="filter: invert(32%) sepia(85%) saturate(1480%) hue-rotate(248deg) brightness(90%) contrast(90%);"/>
+  <img src="https://api.iconify.design/bi:github.svg?color=%236f42c1" alt="github" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
