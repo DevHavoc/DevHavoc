@@ -31,11 +31,12 @@ I also document real-world technical challenges, implementation decisions, and e
 
 ## 📂 Engineering Architecture Domains
 
-*   🧠 [backend](/DevHavoc/Practical-Portifolio-documentation/tree/Portfolio/docs/backend)
-*   🗄️ [data](/DevHavoc/Practical-Portifolio-documentation/tree/Portfolio/docs/data)
-*   🛡️ [security](/DevHavoc/Practical-Portifolio-documentation/tree/Portfolio/docs/security)
-*   🌐 [frontend](/DevHavoc/Practical-Portifolio-documentation/tree/Portfolio/docs/frontend)
-*   ☁️ [cloud](/DevHavoc/Practical-Portifolio-documentation/tree/Portfolio/docs/cloud)
+*   🧠 [backend](./docs/01-backend)
+*   🗄️ [data](./docs/02-data)
+*   🛡️ [security](./docs/03-security)
+*   🌐 [frontend](./docs/04-frontend)
+*   ☁️ [cloud](./docs/05-cloud)
+
 ---
 
 ## 🧠 What I do
