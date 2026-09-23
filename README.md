@@ -81,7 +81,7 @@ I also document real-world technical challenges, implementation decisions, and e
 <p valign="middle">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/GitHub-6F42C1?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+  <img src="https://simpleicons.org/icons/github.svg" alt="github" width="40" height="40" style="filter: invert(32%) sepia(85%) saturate(1480%) hue-rotate(248deg) brightness(90%) contrast(90%);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
