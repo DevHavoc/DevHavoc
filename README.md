@@ -14,17 +14,16 @@ I also document real-world technical challenges, implementation decisions, and e
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/DevHavoc">
-    <img src="https://img.shields.io/badge/GitHub-DEVHAVOC-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/DEVHAVOC" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/victor-ferreira-guimar%C3%A3es-1066b5300/">
-    <img src="https://img.shields.io/badge/LinkedIn-VICTOR_FERREIRA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/TEU_PERFIL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/DevHavoc/Practical-Portifolio-documentation">
-    <img src="https://img.shields.io/badge/Portfolio-ENGINEERING_DOCS-512BD4?style=for-the-badge&logo=readme&logoColor=white" />
+  <a href="TEU_LINK_PORTFOLIO" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
 ---
 
 ## 🧠 What I do
