@@ -15,15 +15,18 @@ I also document real-world technical challenges, implementation decisions, and e
 
 <p align="left">
   <a href="https://github.com/DEVHAVOC" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://api.iconify.design/bi:github.svg?color=%236f42c1" alt="github" width="36" height="36"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/TEU_PERFIL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="linkedin" width="36" height="36"/>
   </a>
+  &nbsp;&nbsp;
   <a href="TEU_LINK_PORTFOLIO" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-512BD4?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio" />
+    <img src="https://api.iconify.design/material-symbols:menu-book-outline.svg?color=%23512BD4" alt="portfolio" width="36" height="36"/>
   </a>
 </p>
+
 ---
 
 ## 🧠 What I do
