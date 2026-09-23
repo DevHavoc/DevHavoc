@@ -31,11 +31,11 @@ I also document real-world technical challenges, implementation decisions, and e
 
 ## 📂 Engineering Architecture Domains
 
-*   🧠 [backend](./docs/backend/)
-*   🗄️ [data](./docs/data/)
-*   🛡️ [security](./docs/security/)
-*   🌐 [frontend](./docs/frontend/)
-*   ☁️ [cloud](./docs/cloud/)
+*   🧠 [backend](./docs/backend/README.md)
+*   🗄️ [data](./docs/data/README.md)
+*   🛡️ [security](./docs/security/README.md)
+*   🌐 [frontend](./docs/frontend/README.md)
+*   ☁️ [cloud](./docs/cloud/README.md)
 
 ---
 
