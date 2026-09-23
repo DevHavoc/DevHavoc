@@ -49,7 +49,8 @@ I also document real-world technical challenges, implementation decisions, and e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge" height="40"/>
+  <img src="https://api.iconify.design/octicon:architecture-24.svg?color=%23512BD4" alt="clean-architecture" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge" height="40"/>
 </p>
 
 ### 🗄️ Databases & Data
@@ -58,7 +59,7 @@ I also document real-world technical challenges, implementation decisions, and e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="pyspark" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
+  <img src="https://api.iconify.design/simple-icons:microsoftexcel.svg?color=%23107C41" alt="excel" width="40" height="40"/>
 </p>
 
 ### 🤖 AI, ML & Programming
@@ -74,7 +75,7 @@ I also document real-world technical challenges, implementation decisions, and e
 ### 🌐 Frontend & Enterprise UI
 <p valign="middle">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/SAPUI5-0FA153?style=for-the-badge&logo=sap&logoColor=white" height="40"/>
+  <img src="https://api.iconify.design/simple-icons:sap.svg?color=%230FA153" alt="sapui5" width="40" height="40"/>
 </p>
 
 ### ☁️ Cloud & Developer Tools
