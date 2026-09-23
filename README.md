@@ -14,15 +14,15 @@ I also document real-world technical challenges, implementation decisions, and e
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/DEVHAVOC" target="_blank">
+  <a href="https://github.com/DevHavoc" target="_blank">
     <img src="https://api.iconify.design/bi:github.svg?color=%236f42c1" alt="github" width="36" height="36"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/TEU_PERFIL" target="_blank">
+  <a href="www.linkedin.com/in/victor-ferreira-guimarães-1066b5300" target="_blank">
     <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" alt="linkedin" width="36" height="36"/>
   </a>
   &nbsp;&nbsp;
-  <a href="TEU_LINK_PORTFOLIO" target="_blank">
+  <a href="https://github.com/DevHavoc/Practical-Portifolio-documentation" target="_blank">
     <img src="https://api.iconify.design/material-symbols:menu-book-outline.svg?color=%23512BD4" alt="portfolio" width="36" height="36"/>
   </a>
 </p>
