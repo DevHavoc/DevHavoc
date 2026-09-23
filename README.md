@@ -50,7 +50,7 @@ I also document real-world technical challenges, implementation decisions, and e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
   <img src="https://api.iconify.design/simple-icons:dotnet.svg?color=%23512BD4" alt="aspnetcore" width="40" height="40"/>
   <img src="https://api.iconify.design/fa6-solid:diagram-project.svg?color=%23512BD4" alt="clean-architecture" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/SOLID-512BD4?style=for-the-badge&logo=codefactor&logoColor=white" height="40"/>
+  <img src="https://api.iconify.design/simple-icons:codefactor.svg?color=%23512BD4" alt="solid" width="40" height="40"/>
 </p>
 
 ### 🗄️ Databases & Data
@@ -66,10 +66,10 @@ I also document real-world technical challenges, implementation decisions, and e
 <p valign="middle">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://api.iconify.design/simple-icons:django.svg?color=%23092E20" alt="django" width="40" height="40"/>
   <img src="https://api.iconify.design/simple-icons:openai.svg?color=%2310A37F" alt="chatgpt" width="40" height="40"/>
   <img src="https://api.iconify.design/octicon:copilot-24.svg?color=%236f42c1" alt="github-copilot" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" height="40"/>
+  <img src="https://api.iconify.design/simple-icons:anthropic.svg?color=%23D97706" alt="claude" width="40" height="40"/>
 </p>
 
 ### 🌐 Frontend & Enterprise UI
